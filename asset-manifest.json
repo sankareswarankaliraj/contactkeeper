@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contactkeeper/static/css/main.65b906d5.css",
+    "main.js": "/contactkeeper/static/js/main.2a63e95d.js",
+    "static/js/787.2b059ede.chunk.js": "/contactkeeper/static/js/787.2b059ede.chunk.js",
+    "index.html": "/contactkeeper/index.html",
+    "main.65b906d5.css.map": "/contactkeeper/static/css/main.65b906d5.css.map",
+    "main.2a63e95d.js.map": "/contactkeeper/static/js/main.2a63e95d.js.map",
+    "787.2b059ede.chunk.js.map": "/contactkeeper/static/js/787.2b059ede.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65b906d5.css",
+    "static/js/main.2a63e95d.js"
+  ]
+}
