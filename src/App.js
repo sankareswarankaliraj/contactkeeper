@@ -69,7 +69,7 @@ export default function App() {
     <div className="App">
       <div classname="clist">
         <div className="contact">
-          <h1>enter your contact details</h1>
+          <h1>Enter your contact details</h1>
         </div>
         <div class="form">
           <input
